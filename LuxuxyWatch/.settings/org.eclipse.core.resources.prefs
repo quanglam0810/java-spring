@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/luxury/controller/HomeController.java=UTF-8
+encoding//src/main/java/luxury/dao/OderDao.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/dashboard.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/admin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/user/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/user/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/product_brand.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/user/resign.jsp=UTF-8
